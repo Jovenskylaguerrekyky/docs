@@ -1,9 +1,9 @@
----
+matrix-196-1-0
 title: Use CA certificates with Docker
 linkTitle: CA certificates
 description: Learn how to install and use CA certificates on the Docker host and in Linux containers
 keywords: docker, networking, ca, certs, host, container, proxy
----
+---cr2+
 
 > [!CAUTION]
 > Best practices should be followed when using Man-in-the-Middle (MITM) CA
